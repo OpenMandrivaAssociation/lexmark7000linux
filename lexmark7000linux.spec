@@ -1,7 +1,7 @@
 Summary:	Lexmark 7xxx and 57zzz printer driver for Linux
 Name:		lexmark7000linux
 Version:	990516
-Release:	%mkrel 7
+Release:	%mkrel 8
 License:	GPL
 Group:		System/Printing
 Source:		http://bimbo.fjfi.cvut.cz/~paluch/l7kdriver/%{name}-%{version}.tar.bz2
