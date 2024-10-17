@@ -6,7 +6,7 @@ Version:	990516
 Release:	24
 License:	GPLv2
 Group:		System/Printing
-Url:		http://bimbo.fjfi.cvut.cz/~paluch/l7kdriver/olddrv.html
+Url:		https://bimbo.fjfi.cvut.cz/~paluch/l7kdriver/olddrv.html
 Source0:	http://bimbo.fjfi.cvut.cz/~paluch/l7kdriver/%{name}-%{version}.tar.bz2
 
 %description
