@@ -9,6 +9,7 @@ Group:		System/Printing
 Url:		https://bimbo.fjfi.cvut.cz/~paluch/l7kdriver/olddrv.html
 Source0:	http://bimbo.fjfi.cvut.cz/~paluch/l7kdriver/%{name}-%{version}.tar.bz2
 
+BuildRequires:	make
 %description
 This is the printer driver for Lexmark 7000 "GDI" printers.
 
